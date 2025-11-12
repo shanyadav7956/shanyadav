@@ -3,7 +3,9 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
+<<<<<<< Updated upstream
 data added to app.java
+
 
 //dev-2 push from local
     import java.util.Scanner;
@@ -24,3 +26,6 @@ public class HelloWorld {
         System.out.println("You entered: " + number);
     }
 }
+=======
+new code by dev-1 without pull the code
+>>>>>>> Stashed changes
