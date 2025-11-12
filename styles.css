@@ -1,0 +1,21 @@
+/* This is a CSS comment */
+
+/* Selects all paragraph elements */
+p {
+  color: blue; /* Sets the text color to blue */
+  font-family: Arial, sans-serif; /* Sets the font family */
+  font-size: 16px; /* Sets the font size */
+}
+
+/* Selects an element with the ID "main-heading" */
+#main-heading {
+  text-align: center; /* Centers the text */
+  background-color: lightgray; /* Sets the background color */
+  padding: 20px; /* Adds padding around the content */
+}
+
+/* Selects elements with the class "highlight" */
+.highlight {
+  background-color: yellow; /* Sets a yellow background */
+  font-weight: bold; /* Makes the text bold */
+}
